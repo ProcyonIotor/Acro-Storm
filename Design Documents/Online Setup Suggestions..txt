@@ -1,0 +1,9 @@
+have a central MySQL database for user registrations (do NOT store stats in this one). This basically holds the user's information -- the "gamer tag", 
+their email, their name, etc., etc. depending on what you want (and also an auto-increment ID). 
+Then you can have a -stats- database that stores user's stats based on their ID.
+
+Finally, you can have another mysql database to store active hosts (like GameSpy does).When a user Creates a game, their IP and ID will be added to the active hosts database. 
+Find Game will automatically find the best match (or if you want, just display all and let the user pick).
+Make sure you don't send the password to login in plain-text. At least use MD5. ;)
+So the database will store the MD5 hash of the pass, not the actual pass.
+or AES, or anything you want, just be secure about it

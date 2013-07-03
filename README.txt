@@ -1,0 +1,2 @@
+This is the new official way of collaborating. Please provide clear and dated details as to what was uploaded and when. This 
+is so that should we need to roll back versions, we are clear on what exactly became undone.

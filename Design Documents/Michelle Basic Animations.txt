@@ -1,0 +1,8 @@
+Michelle McHearten Basic Animations
+
+-Idle: Stands with her hands on her hips, looking at the camera, hips cocked slighty. Has a grin on her face.
+-Idle Action 1: Rolls her neck while shaking her arms and swaying slightly.
+-Idle Action 2: Does the 'thumb rubbing her nose gesture' with her right hand, then uses it to make a 'bring it' gesture.
+-Selected: Claps her hands together once and says 'Let's do it, then!'
+
+-Approaching Bike: Walks with her left hand on her hip, the other waving to the crowds before swinging herself onto the bike.
